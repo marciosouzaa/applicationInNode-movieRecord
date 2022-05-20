@@ -16,3 +16,7 @@ JS, Nodejs
 PS: Requer prévia instalação do Node.
 
 PORT: 3333
+
+## Programa Explorer
+
+- [@Rocketseat](https://www.rocketseat.com.br/)
